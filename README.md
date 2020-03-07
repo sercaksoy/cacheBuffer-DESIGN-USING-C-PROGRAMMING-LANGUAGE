@@ -6,4 +6,8 @@ Program takes inputs from file or console (data by data) by user's decision. And
 
 You can easily understand program's run logic from comments where is written in the .c file. And there are some paint drawings about functions I coded. After all you can always send me e-mails about this repository. 
 
+# There Are Some Screenshots in the below may help you understand what is the Program About
 
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/ss_1.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/ss_3.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/ss_4.png">
