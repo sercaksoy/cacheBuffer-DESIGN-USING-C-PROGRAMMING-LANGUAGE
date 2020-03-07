@@ -14,12 +14,12 @@ You can easily understand program's run logic from comments where is written in 
 
 # Functions with Paint Drawings
 
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/firstInsert_function.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/firstInsert.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/insert_function.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/insert.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/pullToTop_function.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/pullToTop.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/search_function.png
-https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/deleteLast_function.png
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/firstInsert_function.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/firstInsert.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/insert_function.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/insert.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/pullToTop_function.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/pullToTop.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/search_function.png">
+<img src="https://github.com/sercfornow/cacheBuffer-DESIGN-USING-C-PROGRAMMING-LANGUAGE/blob/master/screenshots/deleteLast_function.png">
 
