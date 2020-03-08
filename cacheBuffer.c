@@ -9,7 +9,7 @@ typedef struct link {
 	int counter;            // Counting how much time, the owner website called.
 	char data[SIZE];        // Data of website(website name)
 	struct link * next;     // A pointer reffering next website. 
-	struct link * prev;	   // A pointer reffering previous website
+	struct link * prev;	// A pointer reffering previous website
 }node;
 
 node * firstInsert(char data[] , node * head){      // firstInster function is creating the very first website entered.
@@ -36,7 +36,7 @@ node * pullToTop(node * current , node * head, node * lastnode){    // pullToTop
 		head = current;
 		
 	}
-	else{											// Pulling node is not head it is not lastnode also. 
+	else{					// Pulling node is not head it is not lastnode also. 
 		current -> prev -> next = current -> next;
 		current -> next -> prev = current -> prev;
 		head -> prev = current;
@@ -70,7 +70,7 @@ node * insert(char data[] , node * head){       // This insert function is basic
 }
 
 node * deleteLast(node * lastnode){       // This deleteLast function is deleting the lastnode in our list. So that we can use its space.
-	                                       // Controlling mechanism between length of list and the L value.
+	                                  // Controlling mechanism between length of list and the L value.
 	lastnode -> prev -> next = NULL ;
 	lastnode = lastnode -> prev ;
 	return lastnode;
@@ -111,8 +111,8 @@ int main(){
 			while(fgets(toData,sizeof(toData),fp) != NULL){
 				i = strlen(toData);                 // * I tried to avoid from bugs that may appear if the 'fgets' function takes '\n' character.
 				if(toData[i-1] == '\n')             // *
-					toData[i-1] = '\0';              // *
-				printf("\n");			               // *
+					toData[i-1] = '\0';         // *
+				printf("\n");			    // *
 				strcpy(data,toData);                // *
 			
 				if(length == 0){                    // We need this part for the very first node only.
